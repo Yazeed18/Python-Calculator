@@ -24,4 +24,3 @@ Negative Numbers:
 Error Response:
 
 ![Calc_Error](https://user-images.githubusercontent.com/45414646/129811164-1c3b1f3a-3ff5-4bee-a184-93c5db5f38e7.gif)
-
